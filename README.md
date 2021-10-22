@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @meandering-minutiae
-- 👀 I’m interested in pursuing a career in computational physics
-- 🌱 I’m currently learning foundational knowledge in C, C++, Python and SQL
+- 👋 Hi, I’m @Herbert-Quick
+- 👀 I’m interested in pursuing a career in software development
+- 🌱 I’m currently learning foundational knowledge in Python and C
 - 💞️ I’m looking to collaborate on projects and research in acoustics and optics
 - 📫 How to reach me ...
 
